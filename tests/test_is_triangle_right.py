@@ -1,5 +1,5 @@
 import pytest
-from main import SchoolGeometryCalculator as Calc
+from geometry_calculator import SchoolGeometryCalculator as Calc
 
 
 class TestIsTriangleRight:
